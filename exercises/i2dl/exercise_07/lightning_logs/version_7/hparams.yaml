@@ -1,0 +1,7 @@
+batch_size: 512
+input_size: 3072
+loading_method: Image
+lr: 0.001
+n_classes: 10
+n_hidden: 512
+num_workers: 2
